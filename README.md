@@ -1,4 +1,6 @@
-
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ByoungKooGitHub!&fontSize=80"/>
+</div>
 
 <div align="center">
 
@@ -42,7 +44,7 @@
 <br/>
 
 <div align="center">
- <h4>💜My Portfolio💜</h4>
+ <h4>🕵️My Portfolio🕵️</h4>
 
 
 <a href="https://www.notion.so/853e269f22064e49bb0fb154aee090e5?pvs=4">
