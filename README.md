@@ -45,7 +45,7 @@
  <h4>💜My Portfolio💜</h4>
 
 
-<a href="https://www.notion.so/40ec69eca0e440aea07266f5b9ba1d02">
+<a href="[https://www.notion.so/40ec69eca0e440aea07266f5b9ba1d02](https://www.notion.so/853e269f22064e49bb0fb154aee090e5?pvs=4)">
 <img src="https://img.shields.io/badge/Notion-330000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
 
