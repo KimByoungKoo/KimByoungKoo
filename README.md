@@ -9,6 +9,14 @@
 
 안녕하세요! 백엔드 개발자를 준비하고 있는 김병구입니다🧑‍💻<br>
 "모든 일에 있어서 시간이 부족하지 않을까를 걱정하지말고 내가 마음을 바쳐 최선을 다할 수 있을지, 그것을 걱정하라."
+
+<h2>🔎About Me🔎</h2>
+🎓Department of Management and Accounting, Baekseok University of Culture University<br>
+📜Korea IT Academy Gangnam<br>
+📨Email : qudrn3228@gmail.com
+<br>
+<br>
+
 <div align="center">
 
 <h2>📚Tech Stack📚</h2>
