@@ -1,7 +1,14 @@
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ByoungKooGitHub!&fontSize=80"/>
-</div>
 
+
+<div align="center">
+ <h2>✨Hello, I'm ByoungKoo✨</h2>
+</div>
+<br>
+
+안녕하세요! 백엔드 개발자를 준비하고 있는 김병구입니다🧑‍💻<br>
+"모든 일에 있어서 시간이 부족하지 않을까를 걱정하지말고 내가 마음을 바쳐 최선을 다할 수 있을지, 그것을 걱정하라."
 <div align="center">
 
 <h2>📚Tech Stack📚</h2>
@@ -35,9 +42,14 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Git-222222?style=flat-square&logo=Git&logoColor=white"/>
+<h4>⚙Tools⚙</h4>
 
-<img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=GitHub&logoColor=white"/>
+![GITHUB](https://img.shields.io/badge/github-181717.svg?style=flat&logo=github&logoColor=white)
+![GIT](https://img.shields.io/badge/git-F05032.svg?style=flat&logo=git&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white)
 
 </div>
 
@@ -46,11 +58,13 @@
 <div align="center">
  <h4>🕵️My Portfolio🕵️</h4>
 
-
 <a href="https://www.notion.so/853e269f22064e49bb0fb154aee090e5?pvs=4">
 <img src="https://img.shields.io/badge/Notion-330000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
 
+</div>
+
+<br/>
 
 # GitHub Stats
 <div align="center">
